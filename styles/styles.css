@@ -89,12 +89,12 @@ main {
 
 @media screen and (max-width: 700px) {
     #main-title {
-        font-size: 7vw;
+        font-size: 10vw;
         font-family: 'whiteOnBlack';
     }
     
     #subtitle {
-        font-size: 5vw;
+        font-size: 7vw;
         font-family: 'urbanJungle';
     }
 }
